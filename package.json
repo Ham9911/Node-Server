@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "git": "^0.1.5",
+    "npm-git-install": "^0.3.0"
+  },
+  "scripts": {
+    "install": "npm-git install"
+  },
+  "gitDependencies": {
+    "private-package-name": "git@private.git.server:user/repo.git#revision",
+    "public-package-name": "https://github.com/user/repo.git#revision"
+  }
+}
