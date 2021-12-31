@@ -20,6 +20,9 @@
   "name": "server",
   "version": "1.0.0",
   "main": "app.js",
+  "engines": {
+    "node": "17.x"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Ham9911/Node-Server.git"
