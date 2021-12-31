@@ -20,9 +20,6 @@
   "name": "server",
   "version": "1.0.0",
   "main": "app.js",
-  "engines": {
-    "node": "16.x"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Ham9911/Node-Server.git"
@@ -34,5 +31,9 @@
   },
   "homepage": "https://github.com/Ham9911/Node-Server#readme",
   "keywords": [],
-  "description": ""
+  "description": "",
+  "engines": {
+    "node": "16.x"
+  }
 }
+
