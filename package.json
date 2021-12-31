@@ -16,5 +16,19 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
-  }
+  },
+  "name": "server",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ham9911/Node-Server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ham9911/Node-Server/issues"
+  },
+  "homepage": "https://github.com/Ham9911/Node-Server#readme",
+  "description": ""
 }
